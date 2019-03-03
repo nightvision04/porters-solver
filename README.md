@@ -15,16 +15,20 @@ For normal-sized datasets (samples > 10000), run:
 
 ```python3
 cd porters-solver
-python porters-analysis.py
+python scripts/porters-analysis.py
 ```
 
 For tiny datasets (samples < 200), run:
 
 ```python3
 cd porters-solver
-python porters-analysis-light.py
+python scripts/porters-analysis-light.py
 ```
 
 # How It Works
 
+![image](/images/overview.png)
+
 ![image](/images/volumemodel.png)
+
+![image](/images/constraints.png)
