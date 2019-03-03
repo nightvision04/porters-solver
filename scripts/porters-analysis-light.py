@@ -429,7 +429,7 @@ x = [optimizer.coefs[i] for i in range(len(optimizer.coefs))]
 
 
 # objective,initial guesses,method, bounds, constraints
-sol = minimize(objective,x,method='SLSQP',              bounds=optimizer.bounds,constraints=optimizer.cons)
+sol = minimize(objective,x,method='BFGS',              bounds=optimizer.bounds,constraints=optimizer.cons)
 
 decisions = np.array(['Agencies',
                     'Quality index',
