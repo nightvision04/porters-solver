@@ -33,10 +33,10 @@ This library combines scikit-learn's Linear Regression Model and BFGS algorithm 
 
 First, decisions are assigned significance while fitting the dataset model. Next, budgets and constraints are set to focus optimization within feasible bounds. Price elasticity is tested, and the marginal product of included expenses are maximized. Finally, a decisions list - as well as the predicted net profit - is displayed. It is encouraged to use this information to perform gap analysis and improve feature selection after each business cycle.
 
-<img src="/images/overview.png" width="550">
+<img src="/images/overview.png" width="680">
 
-<img src="/images/volumemodel.png" width="650">
+<img src="/images/volumemodel.png" width="850">
 
-<img src="/images/constraints.png" width="800">
+<img src="/images/constraints.png" width="900">
 
 I encourage any feedback and contributions.
