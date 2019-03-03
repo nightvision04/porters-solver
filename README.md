@@ -11,20 +11,20 @@ A tool to optimize business decisions for profit using constraints.
 
 # Quickstart
 
-For normal-sized datasets (n>10000), run:
+For normal-sized datasets (samples > 10000), run:
 
-```python
+```python3
 cd porters-solver
 python porters-analysis.py
 ```
 
-For tiny datasets (n<200), run:
+For tiny datasets (samples < 200), run:
 
-```python
+```python3
 cd porters-solver
 python porters-analysis-light.py
 ```
 
-#How It Works
+# How It Works
 
 ![image](/images/volumemodel.png)
