@@ -38,3 +38,5 @@ First, decisions are assigned significance while fitting the dataset model. Next
 ![image](/images/volumemodel.png)
 
 ![image](/images/constraints.png)
+
+I encourage any feedback and contributions.
