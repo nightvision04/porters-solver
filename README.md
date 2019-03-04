@@ -1,5 +1,5 @@
 # porters-solver
-A tool to optimize business decisions for profit using constraints.
+A tool for optimizing profit-driven business decisions with constraints.
 
 # Requirements
 
@@ -39,4 +39,4 @@ First, decisions are assigned significance while fitting the dataset model. Next
 
 <img src="/images/constraints.png" width="900">
 
-I encourage any feedback and contributions.
+I encourage any feedback or contributions to the project.
