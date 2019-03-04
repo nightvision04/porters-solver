@@ -1,5 +1,5 @@
 # porters-solver
-A tool for optimizing profit-driven business decisions with constraints.
+A tool for optimizing profit-driven business decisions using regression, objective minimization, and constraints.
 
 # Requirements
 
