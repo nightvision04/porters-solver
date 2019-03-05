@@ -440,4 +440,4 @@ df = pd.DataFrame()
 df['Decision'] = decisions
 df['value'] = sol.x
 df['value'] = df['value'].astype('int')
- print(df)
+print(df)
