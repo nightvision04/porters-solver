@@ -16,14 +16,14 @@ It is recommended to use a stable package of Anaconda as your python client.
 For normal-sized datasets (samples > 10000), run:
 
 ```python3
-cd porters-solver
+cd porters-solver/scripts
 python scripts/porters-analysis.py
 ```
 
 For tiny datasets (samples < 200), run:
 
 ```python3
-cd porters-solver
+cd porters-solver/scripts
 python scripts/porters-analysis-light.py
 ```
 
