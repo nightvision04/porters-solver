@@ -5,15 +5,16 @@
 Copyright Daniel Scott 2019
 
 Background:
-MBA students will often be giving excercises to prepare them for dynamic demands
+MBA students will often be given excercises to prepare them for dynamic demands
 in moden strategic corporate planning. Some well respected simulators - such as
 Globestrat - are strong at providing students with uncertainty, but offer little
-to no explanation of how metrics are ordered in bottom influence.
+to no explanation of how metrics are ordered in bottom line influence.
 
 Intent:
 The script acts as a framework to extract the rank order of available metrics,
 and then apply a profit-maximing function to help guide strategy for the user.
-The output is a list of recommended decisions to maximize profit while minimizing expense.
+The output is a list of recommended decisions to maximize profit while minimizing 
+expense, while fitting within budget constraints.
 
 Method:
 We apply the Nonlinear conjugate gradient method to extract coefficients which
